@@ -21,7 +21,8 @@ I'm a passionate and dedicated MERN (MongoDB, Express.js, React, Node.js) stack 
 - Collaborate with fellow developers and contribute to open-source
 
 💬 **Let's Connect:**
-- [LinkedIn](https://www.linkedin.com/in/prateekthakur12/) 
+- [LinkedIn](https://www.linkedin.com/in/prateekthakur12/)
+- [Email](rapr.prateekthakur@gmail.com)
 
 
 Check out my repositories below to see what I've been working on. Always open to feedback and collaboration!
