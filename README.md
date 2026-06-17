@@ -4,7 +4,7 @@
 
 I'm a software developer with a strong foundation in JavaScript, React.js, Node.js, Express.js, and MongoDB. I enjoy building scalable web applications, designing RESTful APIs, and creating responsive user interfaces that solve real-world problems.
 
-actively pursuing opportunities in React.js, Node.js, and Full-Stack Development.
+
 
 ---
 
@@ -113,4 +113,3 @@ A carpooling platform built with the MERN stack.
 
 ---
 
-*"First make it work, then make it better, then make it faster."*
